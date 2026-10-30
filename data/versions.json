@@ -1,0 +1,1453 @@
+{
+ "country": "RU-MO",
+ "acts": [
+  {
+   "slug": "zakony-2014",
+   "short": "Законы 2014",
+   "title": "Republic of Mordovia: catalogue of the laws published in 2014 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region13",
+   "versions": [
+    {
+     "from": "2014-11-17",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "d329264330d938520a27f962927c2ce17c330a4ea50b1a1b2d5574660b924b27"
+    },
+    {
+     "from": "2014-12-04",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "ebe0ff96bcf31ae32b22a33cd621f1fcaff126ee00500f8c4d0f23b383bd2524"
+    },
+    {
+     "from": "2014-12-05",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "384befccc9eca1edc6fd69198aedd269168a5f57b72c68fc4664e33678bec68c"
+    },
+    {
+     "from": "2014-12-25",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "9f5363691f4a7ca03b6186770ba2be62ce9f5964caad324863ba064228e209d7"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2015",
+   "short": "Законы 2015",
+   "title": "Republic of Mordovia: catalogue of the laws published in 2015 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region13",
+   "versions": [
+    {
+     "from": "2015-03-05",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "3d7da614a576a54e0ee3ea3fe2ad44aa3f45ccb4843da17b30682078670dbc62"
+    },
+    {
+     "from": "2015-03-16",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "0e5cb4498ec13804e0c2485423f146bf163952884378d2d50aec85e595fed414"
+    },
+    {
+     "from": "2015-03-17",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "36b00cd8a130bb917c82a8ec6f070e5fde15fb9b1242d64c4b561551f8059d30"
+    },
+    {
+     "from": "2015-04-24",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "d4455b1411a08678a7bff4acdadc68be0edb94208139c8dc7b803514fb4161b0"
+    },
+    {
+     "from": "2015-05-07",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "a7ff28cd1a2ffbc7159251250ba43ce448e020d2e5c3f995121439bfb15fd469"
+    },
+    {
+     "from": "2015-05-08",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "ef7eb5ad3566900b7f45fe986d9a94932092728213df217e17ee9ef043182ff7"
+    },
+    {
+     "from": "2015-05-15",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "f01b33ea5810fdf2eb066068945486e8c0134b1cee9cf09f1f3436316bb79455"
+    },
+    {
+     "from": "2015-06-22",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "bc9e637021ee64754d5c9ed708be6685e3c9ec9e3ebb8c9b8a41d11cffa2e018"
+    },
+    {
+     "from": "2015-06-23",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "65c4259772b6eab332190b501b10864a121e1321a16fbd27e3937d66b0542d6f"
+    },
+    {
+     "from": "2015-07-03",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "8a486d6464b6a94cd414c0e7c145bdfa509c79e0b0895f9afa8ed925eecfbaba"
+    },
+    {
+     "from": "2015-08-06",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "335f6232be1db3b4811d91d9de345d5def71f5f0b57430efbdd83a237304b420"
+    },
+    {
+     "from": "2015-08-10",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "4f432eb920dfbc0d7bc557c35c5468aa6c1ff351486c0c110390e1701dba14d8"
+    },
+    {
+     "from": "2015-09-09",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "50304c1e708a03176fbae45382bea475041d416e4eee10cee56dd475a74f49a4"
+    },
+    {
+     "from": "2015-10-13",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "60978da62a38bbdd7d105cb2b309217c5ec39d8d0e108d95764bfaf213314838"
+    },
+    {
+     "from": "2015-10-15",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "672419fb7d15a0db9fa62d22c816836cc99008c3f6d6f02569fd7788a6f4e2cb"
+    },
+    {
+     "from": "2015-10-23",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "c7e70de525009dbb89d5edc4dada1b743bc2faa7a15f5365ef77c9be3452df23"
+    },
+    {
+     "from": "2015-11-25",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "47b9922cfde243c426e177243a53356ec4cb95fb66de388040641d0bd399f493"
+    },
+    {
+     "from": "2015-12-01",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "915d18cf34f3fe3cf843174e9748239f07e0fe6e622a62190c96be866881be0c"
+    },
+    {
+     "from": "2015-12-22",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "90f3ee6b8659c641466c8c5fcfddb30a00a80960e922d00f0617c46809392754"
+    },
+    {
+     "from": "2015-12-25",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "3ec0ee8c454d20cc0397cf98db1b720b6bb872ebe0bc1d87a4fe6393daf54de6"
+    },
+    {
+     "from": "2015-12-31",
+     "units": 107,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "02928236f7fcb37fedbd2b070f5687c555b4dcb6bfef4907b478780e7af5fc66"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Republic of Mordovia: catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region13",
+   "versions": [
+    {
+     "from": "2016-01-04",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "aded0587f2ab187a97827ecdf5d35dbc1646e3ac967895df60396770991895d4"
+    },
+    {
+     "from": "2016-02-03",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "3634624d27c4f9c79a1bf60cbacd33a3dc99fac1a80b3fc1dc7b467b39ae078f"
+    },
+    {
+     "from": "2016-02-04",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "f7ea6d6b0a8895aeda0a1f230ce73d91e2f41f9f7a41fc060ed95ffa0cdf6d70"
+    },
+    {
+     "from": "2016-03-10",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "4b47bc3ea18d39beadc3144f102bad3843711a72074e00b0a4079c498f79e704"
+    },
+    {
+     "from": "2016-04-01",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "2489f780ff904218a453ce2aee52d415e6339cfe748d8ca538b395e7f8d572f5"
+    },
+    {
+     "from": "2016-04-05",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "8868cf34a845ac37b77b20eed518580f6a929b3c3e79a92ad43e696505b84f9f"
+    },
+    {
+     "from": "2016-05-06",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "fbf1e1f6ff15d22bd13a7ef961e6ec2cad99633a97a6e1719ec7fff584deff14"
+    },
+    {
+     "from": "2016-05-12",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "171f22c7e8e0ac30be85123d3de12d1de8531986f1978d34efb42def620e4f06"
+    },
+    {
+     "from": "2016-06-02",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "8210ddc9bd24095b9e51e30c2952d4139e38bf38a76bd154957b77350ac82097"
+    },
+    {
+     "from": "2016-06-08",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "ddc96f924acbe2368226df09ccce2d0f136ed22be14008f848c3ff551992d2d7"
+    },
+    {
+     "from": "2016-06-22",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "1f087b1abe251bc2c00c3497a8cdcef28867e1b12e26e729d84cec90fa4ea05e"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "cffc727352c2f11b12f778315666e9a9c7cc84dc5a890da89335c59ab574e2c9"
+    },
+    {
+     "from": "2016-07-04",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "5a15fd4a54153313fcb695d8a7ac2f9eda2b072dfa6b597d1c56fd7b10c47d42"
+    },
+    {
+     "from": "2016-07-22",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "cb8facf6e88d288488eb17b01bdc2bb35b6e402cf389350ad2fe10ebe17783a6"
+    },
+    {
+     "from": "2016-08-22",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "5c110cc8062a28ae73da035eb7553bc4e0c04f0fee35c961df364fe649883fbc"
+    },
+    {
+     "from": "2016-08-23",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "37f888530f9ed8a028c799b3f5b82170b8f8ad9f6dbb2710bd5c5dff880ed5be"
+    },
+    {
+     "from": "2016-09-22",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "02a5cff021f2234522e096aa18e8bc49eaadcd88fae96d2ce916e00ad3c6ad86"
+    },
+    {
+     "from": "2016-11-01",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "ad57fb94b996cdd58b8ce869427902e5b1f121e358dc79db69bfb60422e20b3d"
+    },
+    {
+     "from": "2016-11-02",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "56ae60a8f2e5f1ccde463be6f9a3deb9d2f72cb6ab7f7d33ceb65c657f50c8a6"
+    },
+    {
+     "from": "2016-11-03",
+     "units": 96,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "a7f59a409e69c66bc3036811f8f5edcabd085232dfd7099b8d1c509c131a95ce"
+    },
+    {
+     "from": "2016-12-02",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "400ff9b8bd760c1d15773bbbd92ab34c9d1117a7289f0078ac11ab190da63c6e"
+    },
+    {
+     "from": "2016-12-15",
+     "units": 102,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "0c4808c2b9692070a8a6f3f68de7b16b1bc789ea16bbcbd9805ec07e6092d840"
+    },
+    {
+     "from": "2016-12-29",
+     "units": 113,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "1ec79381915e23d1cd65b0b7dd58bb4918357dafc0670a8dfc44998f0c958f0d"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Republic of Mordovia: catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region13",
+   "versions": [
+    {
+     "from": "2017-01-06",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "0850b5b5895d0f171ced6d4cc09858da2ba7b4b51c368d91288548b66a096416"
+    },
+    {
+     "from": "2017-02-08",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "a152addf6d5b96443d2645e601e2736c4370360a908acaaafdce67bdc8f17db0"
+    },
+    {
+     "from": "2017-02-09",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "b7ec53000033c2b725f7bdb42fd154fe6d8ba17db206cc17154a0e37ac8647b9"
+    },
+    {
+     "from": "2017-02-22",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "51b8d4c1ada6d2dcce7284ef4417e7acb2802d0876f9f8c11e1ae8aa5c7bffd3"
+    },
+    {
+     "from": "2017-04-10",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "4f5ba50a0d6d039faf78a7a43000e98cb93ceeffec0c3df9a9d34c912f95500c"
+    },
+    {
+     "from": "2017-05-12",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "31db58a315348740fc9fa9c405b1c82f8ade0f75a2fc733d06768d564639b50b"
+    },
+    {
+     "from": "2017-06-07",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "429a8913f9573148bdf5d4ae291d23744cd37f7d0f203ac75b9bc64099132f6f"
+    },
+    {
+     "from": "2017-06-08",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "4cf137d59575d2925987dc6d8c5d5fba0adf3b9ba5bbc8048ebe916cdf5f477e"
+    },
+    {
+     "from": "2017-06-21",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "50ed3ac8af9a2dfc4feeed55449a9aeaf52873cf562bb7cc10c8a879098958d4"
+    },
+    {
+     "from": "2017-07-06",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "d146b2ada4772fa1d5cb036d944effb0ceef0c8f203300843711488f6eeca0df"
+    },
+    {
+     "from": "2017-07-12",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "d83975cef63985c3d42c297e252e900367dade3a24725db71e440f3c32f82c30"
+    },
+    {
+     "from": "2017-08-22",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "d5ec50cde05e78d27a04c8ba33d8b66af4176b5c1701f3c6ee600a4fd675ad12"
+    },
+    {
+     "from": "2017-10-03",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "f596bddf8a75321696193e76ab22d63373c7ec6c32d46ec21fa9c059088fd3ca"
+    },
+    {
+     "from": "2017-10-05",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "7c4abd37a573151ab26403e6e98556d9b92b3cef6c089639f9c62efa20550077"
+    },
+    {
+     "from": "2017-11-08",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "2eaf741bb521317e2532cbdf7ce25194dff667e7225dc2b05e4adb02523f90c9"
+    },
+    {
+     "from": "2017-11-14",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "f9436ef3d3ce49d7605a8d3e7559d8247ab3b37f08423f6f1474a4254cf0d76b"
+    },
+    {
+     "from": "2017-11-15",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "ef874069f4e60f2d8f56b21edb0826994aecd8d69d671e35113158b2f942bfbd"
+    },
+    {
+     "from": "2017-12-28",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "2830e8386bd3664917abb510fb27b8cd1a5f8b66fcc7b66bb44373a036ad78b7"
+    },
+    {
+     "from": "2017-12-29",
+     "units": 113,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "b45a859a4ff8c7fcaaeed8ce0ef1db36326e3b36e3514d265ab3698c1ec5b7dd"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Republic of Mordovia: catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region13",
+   "versions": [
+    {
+     "from": "2018-02-06",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "af5f670c7dd591069b656cb598c0522e2062d3ef2611d56fab32983b0936dea3"
+    },
+    {
+     "from": "2018-02-14",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "5ef6ded4e1775b22611adfda965a725aadfeefae30fa19c0846a952ab150e37a"
+    },
+    {
+     "from": "2018-04-04",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "ebd9a8a081dcf89e2f9f814899d8710da112935d818de73bc06de8f0c2dd9db0"
+    },
+    {
+     "from": "2018-04-13",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "ac782ebb4eebad81176f824e23751474a3f8bc68388cc7183f102f393e4492ee"
+    },
+    {
+     "from": "2018-05-23",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "3af20bf71ed0277f895b6a040b0b7645fec5716653da111dfd88a3c1783112f2"
+    },
+    {
+     "from": "2018-05-24",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "d9a57ce564875794b6e67aa48b0f38410620965969aff46ab941c3d69ac69f14"
+    },
+    {
+     "from": "2018-06-07",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "ffafbe9dc03759d410454c809376cbe1d0f967d9df9040228a8001d70667b042"
+    },
+    {
+     "from": "2018-07-11",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "162ef112a43a07719ad78e708b834aabf952a8b71afd9b93c1af578e0beb87fc"
+    },
+    {
+     "from": "2018-07-19",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "0b6d77f9d3a7f0a8121a9575db31f3f11a9a462e402abbd8343db411fab8ca45"
+    },
+    {
+     "from": "2018-08-29",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "d3063556e23f53ba6c5619d9f063c634c20d1526b490202d61b725d1860e3f5d"
+    },
+    {
+     "from": "2018-08-31",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "613f51cb9b7384c9008c4163047a877f7c49fe242bb9084df249fd905bf73ea5"
+    },
+    {
+     "from": "2018-09-03",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "0f598a3a3ae61e786f3a8bae69b8589b9ca5f4e10c15e15b315f3be7825b3965"
+    },
+    {
+     "from": "2018-09-07",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "5029f038b84d5802bba7e2ab2b24e747ffd4b6c7d3252876f22c6c90b0fb85b8"
+    },
+    {
+     "from": "2018-09-20",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "6ad9e815910cb9f1a4769ea23312712ba31befb1c9a49850cb5769e211894fdf"
+    },
+    {
+     "from": "2018-09-21",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "fd889d4468fc6c52a31c9c864d53d9b21214b606b38ce739d74cfad66e786568"
+    },
+    {
+     "from": "2018-09-26",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "7c066b0ec6a38b660bc1f229aa1200af815b64e30e72598b8b61c0733e6929fc"
+    },
+    {
+     "from": "2018-10-09",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "b74fa186bc1fea2028bd3fa3fac19147b36fa09f20633033246bff407b19d4a9"
+    },
+    {
+     "from": "2018-11-06",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "aefbadae47f3547edc39f0d34c3cb17c5d8fa4aaefe511c24e256ae4fe461a34"
+    },
+    {
+     "from": "2018-11-12",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "1d08326fbecfcc6ae238d8582201b70b32aa3880345c8aaba521e389824d7ab8"
+    },
+    {
+     "from": "2018-11-19",
+     "units": 94,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "f5bacf5c2316ef56b7da958dd82522fd2cd328691e97d052f377ad3bdf4cc882"
+    },
+    {
+     "from": "2018-11-29",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "ad22deed67110ea5f12818b0c81ff7bdcd75bfa7b604f4e8e63dc359363ed684"
+    },
+    {
+     "from": "2018-12-04",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "70abe03e4bc1891280e06bfbde80b4921184b68d54c2bfd56d74b8a864eb4362"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Republic of Mordovia: catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region13",
+   "versions": [
+    {
+     "from": "2019-01-04",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "456d745824944b365b06662be0e8968b3bbf32cad180d1c24c0f89e316d8325b"
+    },
+    {
+     "from": "2019-03-12",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "52ae999eb3e27329c95825a927c18642b7589e7a37b652880bc624255198bd0d"
+    },
+    {
+     "from": "2019-04-25",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "7a8319e246b0518d8cd5ee540c36858a7def00cf5245878336d83a5acecf64f6"
+    },
+    {
+     "from": "2019-06-05",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "c921a5ebbf38dfc5427e4fedd7b096a3287c3abca12a01b534fc6110be6b9a5f"
+    },
+    {
+     "from": "2019-06-13",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "a1771d564874eabd2d53d34549e9602baf6f4030547ed43ad8198918eff551eb"
+    },
+    {
+     "from": "2019-06-27",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "5b5961aaa4157f3d7ce0dcdba63ea2ebfdd832f9d613796e574dac72b9299bfb"
+    },
+    {
+     "from": "2019-07-09",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "8b49d550fa03fdd5c502882206e165e81d68b28a8e66a26ddab19fb0f1b65d59"
+    },
+    {
+     "from": "2019-09-02",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "af0b537469ad7193dd3ee56775a9c9068c0ec6c992b6a538f9792301f4ae2342"
+    },
+    {
+     "from": "2019-09-04",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "b5d066157724cbd901c2caedac512b34f88119ce6a455424be2df02cc31f3118"
+    },
+    {
+     "from": "2019-09-11",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "6624f00420d30dfe70818a6bbadfc2310f653b532ed904ad094069117afc59f6"
+    },
+    {
+     "from": "2019-11-28",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "c30990d04fdad3c60aff91ac07c8712835bc8f74d3d31622103eeffc05d0eb09"
+    },
+    {
+     "from": "2019-12-05",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "970aa7f268d332b0f3ab065629ca48d967ad0b815c9360d6c25b8182c98e866b"
+    },
+    {
+     "from": "2019-12-18",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "4abe9e6dd8523bc53920e48adb0d8b93cc1f9401ea7bbd4e504bf53a5af6053f"
+    },
+    {
+     "from": "2019-12-20",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "e70ef7c277837e86bbc1b8f77d34b4328bb9ea083e4de8c9907322b5750f0790"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Republic of Mordovia: catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region13",
+   "versions": [
+    {
+     "from": "2020-01-04",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "4698a3435491dd807e9ae497c7b92e601810b0ee949de584bc246506824ff030"
+    },
+    {
+     "from": "2020-03-13",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "92d106661c8d596020c280958261fa01a35e36b731355218e6be78533673aab5"
+    },
+    {
+     "from": "2020-03-24",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "df64b45f383b5a61fe7d44ab00dafca29343c551eb494fcee0c568c6d6c40e76"
+    },
+    {
+     "from": "2020-05-22",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "4e49752773f3238568d07bbec150d4a3e2523c6a4239c276876ed73d3fbfb8f9"
+    },
+    {
+     "from": "2020-06-15",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "206d9060075dab4ebb7fdf65bf0cb495d376e12edbfe243bfeb8392e71d40abe"
+    },
+    {
+     "from": "2020-06-25",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "37db0cbe02dab3ecb1d82deea0f110eae2a1e3a476ee24e5b95407f6787a8d08"
+    },
+    {
+     "from": "2020-06-26",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "7721e96ef5924cf976c9f4d33f44dbbb147227d844bad236976c5067e2aecbaa"
+    },
+    {
+     "from": "2020-07-24",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "2188d32a20a58c06ad749a1580d206a61c342d6c64040ee4ee45d1f29483b502"
+    },
+    {
+     "from": "2020-08-21",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "d914938d76e8aa885370dbce1ea179c219c97021cdbd637c8e20890155354fbb"
+    },
+    {
+     "from": "2020-09-17",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "2a5554a2229ac0c037cbe96c4e7af04033e17a5ddc8a02db66e60a89bfa46ad2"
+    },
+    {
+     "from": "2020-11-02",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "8d0014676fa24c4dae1bba9d33b3e3e266d0b68b2f503d5063ca91239560d398"
+    },
+    {
+     "from": "2020-11-13",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "40412861d31b5e21c3d9dedaa52fed4356e81c7b2afdcb443dff77751e6b0743"
+    },
+    {
+     "from": "2020-12-16",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "683aa0fdadab4f0954401a6616285c0ab865796773f9528c078128ee0d266e3a"
+    },
+    {
+     "from": "2020-12-17",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "cd5ae806d58de33947ee78ef719a23118b98987d6e29d782f05aad8910522b14"
+    },
+    {
+     "from": "2020-12-18",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "dc7af1d120669e43c8ef2e569d53a76e54c82437d176dd95613e4bee0fd93da6"
+    },
+    {
+     "from": "2020-12-30",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "c22132d201fe8c64bdbfe559b2467635a247483a8003c2fedb999a32540c311b"
+    },
+    {
+     "from": "2020-12-31",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "5abfe80e275bdd49ba689a1f5a592e8a005bc6a08f3bd90f88a5bec9d48f5b02"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Republic of Mordovia: catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region13",
+   "versions": [
+    {
+     "from": "2021-03-09",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "021c98e463f5cff4d708e7a9d7be9c3fb8d7d0aae27e7b6913e67f56b881d4b4"
+    },
+    {
+     "from": "2021-03-12",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "89ea8e00a2efc10067d0d177d94a4b9fb04a911a82134a4e1df0b28795271179"
+    },
+    {
+     "from": "2021-03-16",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "3a39a1cad46c5ca838ba371dab8c3626f28106f4052287a3058ce3222a800613"
+    },
+    {
+     "from": "2021-05-05",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "60cee31eb5864ebee1b339fc4f9a542545bfc308da95616b46735bc44bfec907"
+    },
+    {
+     "from": "2021-06-11",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "bf7505bd327b0f5d343778746a16595493ea051c2cc475a9acbf8916978ea2fe"
+    },
+    {
+     "from": "2021-06-17",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "8dc90a7d7623fd8b98b12b97a0d525ebb2c0dc976d8f90ebf963ecd0c3d6204e"
+    },
+    {
+     "from": "2021-06-24",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "b994c497fcbc057c0f9977d0c2f00d4f664398c685dc392f34475cb1d5b84a43"
+    },
+    {
+     "from": "2021-08-11",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "ad47f5a0b7676ba842bd92861a625aa56e9e9c7ea1e770edaff149c0edd2a1ee"
+    },
+    {
+     "from": "2021-09-22",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "126bd4fc104a40559f2bd93a0e97330f4722507c06da260b66df9932e5de630c"
+    },
+    {
+     "from": "2021-10-01",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "d587490fcc52d0966e1a7b180cf2805aac3d94bef4f70af82e4710666e9c38a6"
+    },
+    {
+     "from": "2021-11-26",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "962b9a3a17392ba7ec5f85d05098d87be790801a3ed8d3e841461961dc5c0eb8"
+    },
+    {
+     "from": "2021-12-03",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "3fecc830b77ebc0977023b60e64050c21cd826e58b8c486ddb6fe4427484a483"
+    },
+    {
+     "from": "2021-12-24",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "5d49ba02f0ef896bf9fb57cd8496ef1fe907108d68866d03e7d6f993a7c96f2b"
+    },
+    {
+     "from": "2021-12-27",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "d8c8dda10e78acae79881c422f7830d2eaee0510e62ccac85fa56ae2723de5e9"
+    },
+    {
+     "from": "2021-12-29",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "bf0a69caf998ca51d1a7ff9d2c0169b3798d6c30da132583d8255e1034678ffc"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Republic of Mordovia: catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region13",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "6a8f6f12c478679dffa93b9ef3a2c85d4e93f66a086c42f72ebb9c879ac69fa0"
+    },
+    {
+     "from": "2022-03-04",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "63789908f1fbe683faa96aa0a836b63fd8401f3821d3327e2cc0316c71f44d5e"
+    },
+    {
+     "from": "2022-04-03",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "869c759f114a089852d20bb7f92c003085d373fcdd50b874924f5b91b263d54f"
+    },
+    {
+     "from": "2022-04-04",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "e03b512af440acc600a2fca3333ad5690c442b71444999d3a94ba9b369b9290e"
+    },
+    {
+     "from": "2022-04-26",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "20156829508246c2575a2124618d89f989be505d7cad7f98297ef7ce83750990"
+    },
+    {
+     "from": "2022-04-28",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "4c90a1760e837a292025f304b68bc35eeb8cf59c30039db8122206ab7a69e261"
+    },
+    {
+     "from": "2022-06-01",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "43a960918e16de5f8b9dca381d8457f1d294b990af6e4467eeaf4ff9e9965e6f"
+    },
+    {
+     "from": "2022-06-06",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "8d7b48fbb63150009439c1d14be299c21cbfa9d361ff6c4f45f854af0340fc68"
+    },
+    {
+     "from": "2022-07-12",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "0ac73db014854c41b588b75f04d666d10a65493adb7f51a9a9ffc3e2fff1536c"
+    },
+    {
+     "from": "2022-08-10",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "3aa9b3846dad0a32bd1b55c58a66a06fa6da40912daceeabf085c3e30734e410"
+    },
+    {
+     "from": "2022-08-11",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "5ce87fcd8d2b650c924ac62ba9a348ba0182bd0bdccf95df3d63182bd50d0a0e"
+    },
+    {
+     "from": "2022-09-12",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "cf4a6cc89355331a5d445757deae4e5cd1937dc1fbe0ec674bf92779f8bc4522"
+    },
+    {
+     "from": "2022-09-13",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "91c88d2cc1b106ae266dbbc911201345752419d8fe57cdc7e159f45a87803e35"
+    },
+    {
+     "from": "2022-10-12",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "41881fd852425563824ee90843aad69608d6a1f2a1ceea3b0770c3ff1fc3eb1a"
+    },
+    {
+     "from": "2022-10-13",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "8ae1b24fdf382c714733e2a29b0e445bcf9223ecff77d15640c2a01cb2131caf"
+    },
+    {
+     "from": "2022-11-02",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "f2c276c8946e83b0e097a9aa21442511344e4cf0aef426e1d1141ad357a51dbc"
+    },
+    {
+     "from": "2022-12-05",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "f3e778c0a3831d4abe825188d3acb8b2a9e22c1e0d23a5b3aff9c89763f261b7"
+    },
+    {
+     "from": "2022-12-06",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "ec6448f6cdaf9576e9120bb8c4901d01ad2b8e380be6749088fedb80dd9b48d8"
+    },
+    {
+     "from": "2022-12-29",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "22178039b2a9021cf303d5f5aa852a8d6637a3be1ade83a352d889256914390b"
+    },
+    {
+     "from": "2022-12-30",
+     "units": 102,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "08e4a6dcbf303a227003797739d7b91f5c3d946b44cb3991d30f7398c542b96a"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Republic of Mordovia: catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region13",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "d93ec8371726f1c89f36a26faa049b78e5127ca92e66fe679d64e833059e5487"
+    },
+    {
+     "from": "2023-02-27",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "054d5ff79a01ab78c77f0aac841874228805b2ea56151bf8b816c02ba6a06197"
+    },
+    {
+     "from": "2023-03-27",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "00a81caacd262243e6bb5e8d455ca422ad93d053db2170d14b622f010cfaa833"
+    },
+    {
+     "from": "2023-04-04",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "86626d76d3f9921b2160723d9819e4f4b1061869069b35e470e24a59c99bcfee"
+    },
+    {
+     "from": "2023-04-28",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "07751422508fc6c75b37b696f1494ab3e390d228cf938006f537dc8979b0b36d"
+    },
+    {
+     "from": "2023-06-05",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "cc347f7ec5b1b191af47007680cc417dbc7729ff4d2a62fa59920f5d2ab888b1"
+    },
+    {
+     "from": "2023-06-30",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "d10414d3c3ac8970eb4749a45cad44f2b6822d431e7c6db122845726fc739dc8"
+    },
+    {
+     "from": "2023-07-03",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "f876d47dd493cb5e385ac03de337555007995984b6790cf790f02628d953e03c"
+    },
+    {
+     "from": "2023-08-08",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "bf7cbae9186aae9206007412ae9947cbf579cc39366649929a8c6046c8477265"
+    },
+    {
+     "from": "2023-09-08",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "f8bff112b402d19215f4bf5aefe7a9a26462cb9f32fa8f402658f28ef3296760"
+    },
+    {
+     "from": "2023-10-17",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "bda67df27f054d68985c9b5ae16095a0e450c05f640cee81446489202e44d1ce"
+    },
+    {
+     "from": "2023-11-03",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "e0637659c69a5afd52b931854441ef9e21fd2e08e935a1148f1cc73d37839456"
+    },
+    {
+     "from": "2023-11-10",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "4b19970aa06b3261525330231a6740b6994909579468094eea1e4b2ec1b568f3"
+    },
+    {
+     "from": "2023-11-28",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "b47cf60fe3c1de6ed26942cb0e2d54da62090251ece3791d0527d0a7fb66216d"
+    },
+    {
+     "from": "2023-12-04",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "9b902c20c2e284e6dcce6dd1ceaf3724bfdbced004b03155f063e61239135559"
+    },
+    {
+     "from": "2023-12-19",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "1a505da948b13b69c7e28de20c174c226e7c46db75899ba5cfa11210b17509c0"
+    },
+    {
+     "from": "2023-12-21",
+     "units": 107,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "3114609560fc396344a4f654f890c1bf101c8a6637b66b801e99f3cdd2e0c199"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Republic of Mordovia: catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region13",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "0df852b03a453f18526d8fa70c5541075e78fc86a485a27ea78ebed922874c9f"
+    },
+    {
+     "from": "2024-02-09",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "919534465b167a445f6a1c45956c745843f200c38fddcdff13a3a649e23ea1f6"
+    },
+    {
+     "from": "2024-03-07",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "5333a4748d6f697941a7f6d8ea92914b905a1fa69a005ba5489361d488c7f6a5"
+    },
+    {
+     "from": "2024-03-14",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "01ec9e4dbd5ec423ca3808ffcd0ffb45d837ec03bd162dd608eafcea607c4b30"
+    },
+    {
+     "from": "2024-04-12",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "8fb364770b513cbc83d5eb39df324be081ab84f85d100f7613be9baf47ab246a"
+    },
+    {
+     "from": "2024-04-25",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "21d15d86fb1ec16773865b47c8af67ffc8c552d1cbece1425fce05568e4abc41"
+    },
+    {
+     "from": "2024-06-11",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "b9de3ad64f2cab5ed0a236ca83194da8e2696e5cbc9eb0fbec0998420e6fcc41"
+    },
+    {
+     "from": "2024-06-26",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "e36919c284b4b72c2af827b4da2a9dd2e474de3a6cc43a8c60773467c586d9ba"
+    },
+    {
+     "from": "2024-07-24",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "ac2e726625c3a2588c527a5ae367210195b398f190774ef688035983137e887a"
+    },
+    {
+     "from": "2024-08-08",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "b8793860d602a74b3d4ffdf6ba009bf20bd73d601a02842a9fb6e03263f6aec2"
+    },
+    {
+     "from": "2024-08-26",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "1886dca45d2c98d91bfd834c08ab454c2db87d31ba83f8488291449f133da29b"
+    },
+    {
+     "from": "2024-08-28",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "3d7d42d85f2e534e873e81649e4cffb2572a73ac66bfe42a2566eb7f838fefa7"
+    },
+    {
+     "from": "2024-10-09",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "256145bbe1609aa05f6dd35264c8a09db83c58e5b98c515f220c8710de2d11f6"
+    },
+    {
+     "from": "2024-11-06",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "4649ae580a3d165fa436025d41123f613d4f61684154a769e1627661edd31e91"
+    },
+    {
+     "from": "2024-11-08",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "3296f8c9f9810ce66b5127ec94f60df70c9df4c7399d67e826b667259904ca96"
+    },
+    {
+     "from": "2024-11-29",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "bb37b247df50e45d46aa3db53c85983ff8ea6cbd18533073c94b26f491daa0a7"
+    },
+    {
+     "from": "2024-12-02",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "384ebfdf804e91ced6c6178b503cde8c8d2e9d7cafa925700bf1fdaebc527d58"
+    },
+    {
+     "from": "2024-12-25",
+     "units": 109,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "3f7cbc20763e8c50b8060f6f5e980a4b2b902e8ba8c2ae4e135276af09b4cdde"
+    },
+    {
+     "from": "2024-12-27",
+     "units": 117,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "3b48368ea8454fdb206b6bc5629287aab510ddbb29d56c8834c6e47b1435b35b"
+    },
+    {
+     "from": "2024-12-28",
+     "units": 119,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "9628ed48bbe0304ec2613a133bfb2fe047092b1e5828b0d3823382d75fec58ae"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Republic of Mordovia: catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region13",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "585bee902a690e9f4eb89abb1176219dbc22ac58ec4abef1d4b28f308df39ab0"
+    },
+    {
+     "from": "2025-02-28",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "185baf1f94dd39d1dbfb53a2ba44211770370fa863e478f432cedf8537d56627"
+    },
+    {
+     "from": "2025-03-06",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "384c36139b7c40e833e5401f4b6110f647fd593bac84a102a88aa832e7e84412"
+    },
+    {
+     "from": "2025-03-31",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "07f5c7efa2ea6dfb41379f34cd5d62d42cb649cb90ba31bd5011c4cb8c72a79c"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "0206083de4f58f91e826e66c9990e2c1a17f92dcb4bdce098077f4ab2156cfdb"
+    },
+    {
+     "from": "2025-04-25",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "5fe6cfdef502d042b4a9bd3d98e97b9d2437c01318c8f8e6dd31e91da4f33d9e"
+    },
+    {
+     "from": "2025-05-05",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "79f40c748b7bed6d434127df8a21ca3b34819b8c61dbc2ab81beb46fdc3b3cd8"
+    },
+    {
+     "from": "2025-06-03",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "c24d9c01057c3ec9afbf4e37f8e52f797aa34c4186c5f57b3f6896e72d2a45b1"
+    },
+    {
+     "from": "2025-07-29",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "ae1af8af54fd75908f9f96258fb2b0715a95a8fdb7e3ef6a6b1c9d47cec9552d"
+    },
+    {
+     "from": "2025-08-05",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "4614c3f05464bfd88e2b6773db4f828511be15a17dc1929f7027a19be3dc1811"
+    },
+    {
+     "from": "2025-08-15",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "79a6d753ecdba22ccb92ab771f9c8754d6f950a274919cdb300ee129b9960f1b"
+    },
+    {
+     "from": "2025-10-31",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "553de2932aab8d40c1f9ebd85765e22a49096ca24bf51d39df61d891cd73ef65"
+    },
+    {
+     "from": "2025-11-05",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "a4cc7cb76787ea1a1a40433eaf144ad6c1fe0407abb78aa6d10cebad93097f39"
+    },
+    {
+     "from": "2025-11-10",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "4e80fbb29a607674b9308027e8e7a2305a0de21188eecf6e6b19ac68e90ed853"
+    },
+    {
+     "from": "2025-11-28",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "c18888711e4b3b00ce89901d70c762845819d9c45d8daec4d5b4da63cd58b6f4"
+    },
+    {
+     "from": "2025-12-03",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "d8b9e66c4455c9142067b2368bb5149476b183f8241d0c30909a7809296bae8b"
+    },
+    {
+     "from": "2025-12-24",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "9a1700acb3f52701cb7b7785ce09cbad3989fdfec7d34137b92e1a6bd3cd46ba"
+    },
+    {
+     "from": "2025-12-29",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "af77dc028777233ca819205b89d130cc3da7d988996f9c4abf772451c9ce4981"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Republic of Mordovia: catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region13",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "3886cfc35611c125affcdc843c164186f898feb68232201cac2ef560712bde5f"
+    },
+    {
+     "from": "2026-02-26",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "ac3924d3551dca34790a59d8e299b1232869f775d1d58151b50b97ba2149ebf1"
+    },
+    {
+     "from": "2026-03-02",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "ebfb294e26834a36eaf765e3b7ba338f659bd7078db297255052424d1eb6b317"
+    },
+    {
+     "from": "2026-04-10",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "26efc6bac2d1c8319b23f70ece3baf322f6ab907ab7c4c223768ed1ac58a7018"
+    },
+    {
+     "from": "2026-05-19",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "4cc2069172f7e1439f78482a1995cb0bbb97d585aed6a66d1750dcf602b868ae"
+    },
+    {
+     "from": "2026-06-01",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "2b2ad9747c287bb2d49bbaadaf1c5735702571c7988d706b972ea83eddc23d90"
+    },
+    {
+     "from": "2026-06-09",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "6a8cfb448565da8d6fad92a0bde58939158898469efc199b60d87ca3c013cfeb"
+    },
+    {
+     "from": "2026-06-19",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "a5ef35263a6935f66e0a0039f199ae4175541ddfcd6c0043a486913a600399d5"
+    },
+    {
+     "from": "2026-06-25",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "e607dfd49442040539ca98243bf866892bc4dae9e14ea746f8f7a43ff3c401bc"
+    },
+    {
+     "from": "2026-07-31",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "68a37362eb25a700895006e59232e80324b2305d2b73792a62057d030f8bb98a"
+    },
+    {
+     "from": "2026-08-06",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "1d5d9dd4eebccd9ee499b0310d8df6d93a05dc558a43951dac36fc2ec105d8ff"
+    },
+    {
+     "from": "2026-09-02",
+     "units": 97,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "1d510249b2d70f134f0ba21651b332b9bb5a7acd2a53cb32eed8571a35059d4c"
+    },
+    {
+     "from": "2026-09-29",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "1a7e7fdca911bd29d7f7472ecdd722cbfec88d51026901832013193ac33bb2ff"
+    },
+    {
+     "from": "2026-10-21",
+     "units": 110,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region13",
+     "sha256": "a9647b1c233861fad7dea997b374def695438ec61803e48e3b48ac140429d4c3"
+    }
+   ]
+  }
+ ]
+}

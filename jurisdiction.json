@@ -1,0 +1,11 @@
+{
+  "path": "ru-mo",
+  "code": "RU-MO",
+  "name": "Republic of Mordovia",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-mordovia-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
