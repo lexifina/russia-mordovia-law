@@ -1,0 +1,102 @@
+{
+ "generated": "2026-11-24T14:14:26Z",
+ "latest": {
+  "pravo-mordovia|russia/mordovia/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 2,
+    "match_old": 0,
+    "method": "each sampled entry's own record on the portal (/api/Document?eoNumber=...), its title, number and date signed against the listing's",
+    "sampled": 2
+   },
+   "census": {
+    "checked": 1318,
+    "current": 1308,
+    "gone": 0,
+    "held": 1308,
+    "newest_in_repo": "2026-10-21",
+    "pending": 10,
+    "repo": 1308,
+    "source_in_scope": 1318
+   },
+   "check_id": "ru-pravo-mordovia-20261124T141256Z",
+   "commits": {
+    "count": 2,
+    "from": "7954d7015792bfa5e6c804386c6b819e90fd161c",
+    "to": "11aa8fb219c23dc636299ea45ade0067fb5c4584"
+   },
+   "corpus": "russia/mordovia/acts",
+   "error": null,
+   "finished": "2026-11-24T14:14:26Z",
+   "flags": [],
+   "gap": 0,
+   "note": "publication.pravo.gov.ru, block region13: 1318 law-type documents listed (every page read); 1308 held here; 10 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
+   "published": {
+    "added": [
+     "1300202611230001",
+     "1300202611230002",
+     "1300202611230003",
+     "1300202611230004",
+     "1300202611230005",
+     "1300202611230006",
+     "1300202611230007",
+     "1300202611230008",
+     "1300202611230009",
+     "1300202611230010"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 10,
+   "runner": "lawwatch russia (65e3dde363)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [
+     "1300202611230001",
+     "1300202611230002",
+     "1300202611230003",
+     "1300202611230004",
+     "1300202611230005",
+     "1300202611230006",
+     "1300202611230007",
+     "1300202611230008",
+     "1300202611230009",
+     "1300202611230010"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "1318 law-type documents in block region13; newest published 2026-11-23",
+   "source": "pravo-mordovia",
+   "started": "2026-11-24T14:12:56Z",
+   "unexplained": 0,
+   "update": {
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261124-001.json"
+    ]
+   },
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "held": 13,
+    "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
+    "ok": true,
+    "swept": 13,
+    "versions_checked": 225,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}

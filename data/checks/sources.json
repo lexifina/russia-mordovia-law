@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-mordovia",
+   "kind": "legislation",
+   "name": {
+    "en": "Republic of Mordovia: Official Internet Portal of Legal Information (region13)",
+    "ru": "Republic of Mordovia: Официальный интернет-портал правовой информации (region13)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region13",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/mordovia/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-mordovia-law",
+   "group": "pravo",
+   "tz": "Europe/Moscow"
+  }
+ ]
+}
