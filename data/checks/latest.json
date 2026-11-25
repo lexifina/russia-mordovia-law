@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:14:26Z",
+ "generated": "2026-11-25T07:00:59Z",
  "latest": {
   "pravo-mordovia|russia/mordovia/acts": {
    "attempt": 1,
@@ -13,40 +13,25 @@
    },
    "census": {
     "checked": 1318,
-    "current": 1308,
+    "current": 1318,
     "gone": 0,
-    "held": 1308,
-    "newest_in_repo": "2026-10-21",
-    "pending": 10,
-    "repo": 1308,
+    "held": 1318,
+    "newest_in_repo": "2026-11-23",
+    "pending": 0,
+    "repo": 1318,
     "source_in_scope": 1318
    },
-   "check_id": "ru-pravo-mordovia-20261124T141256Z",
-   "commits": {
-    "count": 2,
-    "from": "7954d7015792bfa5e6c804386c6b819e90fd161c",
-    "to": "11aa8fb219c23dc636299ea45ade0067fb5c4584"
-   },
+   "check_id": "ru-pravo-mordovia-20261125T061636Z",
+   "commits": null,
    "corpus": "russia/mordovia/acts",
    "error": null,
-   "finished": "2026-11-24T14:14:26Z",
+   "finished": "2026-11-25T06:17:10Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region13: 1318 law-type documents listed (every page read); 1308 held here; 10 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region13: 1318 law-type documents listed (every page read); 1318 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "1300202611230001",
-     "1300202611230002",
-     "1300202611230003",
-     "1300202611230004",
-     "1300202611230005",
-     "1300202611230006",
-     "1300202611230007",
-     "1300202611230008",
-     "1300202611230009",
-     "1300202611230010"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -54,37 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "1300202611230001",
-     "1300202611230002",
-     "1300202611230003",
-     "1300202611230004",
-     "1300202611230005",
-     "1300202611230006",
-     "1300202611230007",
-     "1300202611230008",
-     "1300202611230009",
-     "1300202611230010"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1318 law-type documents in block region13; newest published 2026-11-23",
    "source": "pravo-mordovia",
-   "started": "2026-11-24T14:12:56Z",
+   "started": "2026-11-25T06:16:36Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,

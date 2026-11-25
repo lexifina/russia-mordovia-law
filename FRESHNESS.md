@@ -6,8 +6,8 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Republic of Mordovia: Official Internet Portal of Legal Information (region13) · `russia/mordovia/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 14:14 UTC**.
-- Acts held here: 1 308; current at the source: 1 308; changed at the source since the version held here: 10; no longer at the source: 0.
+- The official source last read and every act held here checked against it: **2026-11-25 06:17 UTC**.
+- Acts held here: 1 318; current at the source: 1 318; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.md). For programs: [data/checks/latest.json](data/checks/latest.json).
