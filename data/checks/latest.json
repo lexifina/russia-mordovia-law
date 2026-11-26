@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T07:00:59Z",
+ "generated": "2026-11-26T06:18:03Z",
  "latest": {
   "pravo-mordovia|russia/mordovia/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1318,
     "source_in_scope": 1318
    },
-   "check_id": "ru-pravo-mordovia-20261125T061636Z",
+   "check_id": "ru-pravo-mordovia-20261126T054232Z",
    "commits": null,
    "corpus": "russia/mordovia/acts",
    "error": null,
-   "finished": "2026-11-25T06:17:10Z",
+   "finished": "2026-11-26T05:43:12Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region13: 1318 law-type documents listed (every page read); 1318 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1318 law-type documents in block region13; newest published 2026-11-23",
    "source": "pravo-mordovia",
-   "started": "2026-11-25T06:16:36Z",
+   "started": "2026-11-26T05:42:32Z",
    "unexplained": 0,
    "update": {
     "parts": []
