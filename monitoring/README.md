@@ -4,18 +4,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Republic of Mordovia only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-26 05:43 UTC, Republic of Mordovia: Official Internet Portal of Legal Information (region13): 10 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
+**Last check:** 2026-11-27 05:38 UTC, Republic of Mordovia: Official Internet Portal of Legal Information (region13): 10 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Republic of Mordovia: Official Internet Portal of Legal Information (region13)](http://publication.pravo.gov.ru/documents/block/region13) | `zakony-<year>/` | daily | 2026-11-26 05:43 UTC | no change | watched |
+| [Republic of Mordovia: Official Internet Portal of Legal Information (region13)](http://publication.pravo.gov.ru/documents/block/region13) | `zakony-<year>/` | daily | 2026-11-27 05:38 UTC | no change | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-27 05:38](checks/2026-11.md#ru-pravo-mordovia-20261127t053814z) | pravo-mordovia | 10 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-26 05:42](checks/2026-11.md#ru-pravo-mordovia-20261126t054232z) | pravo-mordovia | 10 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-25 06:16](checks/2026-11.md#ru-pravo-mordovia-20261125t061636z) | pravo-mordovia | 10 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-24 14:12](checks/2026-11.md#ru-pravo-mordovia-20261124t141256z) | pravo-mordovia | 10 | 10 | 0 | 0 | 0 (0) | changes found | [2](https://github.com/lexifina/russia-mordovia-law/compare/7954d7015792...11aa8fb219c2) |
